@@ -14,7 +14,7 @@ Ability: Frisk
 EVs: 252 HP / 252 Atk / 4 SpD
 Adamant Nature
 - Taunt
-- Thunder Wave
+- Thunder Wave / Will-O-Wisp
 - Knock Off
 - Destiny Bond
 
@@ -25,7 +25,7 @@ Jellicent @ Leftovers
 Ability: Water Absorb
 EVs: 252 HP / 212 SpD / 44 Spe
 Calm Nature
-- Scald
+- Scald / Hex
 - Will-O-Wisp
 - Recover
 - Taunt
@@ -37,19 +37,19 @@ Sigilyph @ Life Orb
 Ability: Magic Guard
 EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
-- Psyshock
+- Psychic
 - Heat Wave
 - Roost
 - Calm Mind
 
-Sigilyph @ Flame Orb
+Sigilyph @ Life Orb
 Ability: Magic Guard
-EVs: 252 HP / 16 Def / 240 Spe
+EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
-- Cosmic Power
-- Roost
-- Psycho Shift
-- Stored Power
+- Psychic
+- Heat Wave
+- Roost / Air Slash
+- Dazzling Gleam
 
 
 === [ru] Gastrodon ===
@@ -60,7 +60,7 @@ EVs: 252 HP / 244 Def / 12 Spe
 Bold Nature
 - Scald
 - Recover
-- Clear Smog
+- Clear Smog / Toxic
 - Earth Power
 
 
@@ -84,7 +84,7 @@ EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
 - Fire Blast
 - Psychic
-- Grass Knot
+- Dazzling Gleam / Grass Knot
 - Switcheroo
 
 Delphox @ Choice Specs
@@ -129,7 +129,7 @@ Jolly Nature
 
 === [ru] Clawitzer ===
 
-Clawitzer @ Choice Specs
+Clawitzer @ Life Orb
 Ability: Mega Launcher
 EVs: 252 SpA / 4 SpD / 252 Spe
 Modest Nature
@@ -160,11 +160,11 @@ Timid Nature
 - Leaf Storm
 - Volt Switch
 - Thunderbolt
-- Trick
+- Trick / Will-O-Wisp
 
 Rotom-Mow @ Choice Specs
 Ability: Levitate
-EVs: 48 HP / 252 SpA / 208 Spe
+EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
 - Leaf Storm
 - Volt Switch
@@ -178,7 +178,7 @@ Calm Nature
 - Leaf Storm
 - Volt Switch
 - Pain Split
-- Thunder Wave
+- Will-O-Wisp
 
 
 === [ru] Hitmontop ===
@@ -211,7 +211,7 @@ Adamant Nature
 - Brave Bird
 - Return
 - Superpower
-- Roost
+- U-turn
 
 Braviary @ Leftovers
 Ability: Defiant
@@ -231,8 +231,8 @@ EVs: 252 HP / 160 Def / 96 SpD
 Bold Nature
 - Spore
 - Giga Drain
-- Clear Smog
-- Foul Play
+- Sludge Bomb / Clear Smog
+- Hidden Power [Fire] / Foul Play
 
 
 === [ru] Shiftry ===
@@ -259,31 +259,31 @@ Jolly Nature
 === [ru] Tyrantrum ===
 
 Tyrantrum @ Choice Scarf
-Ability: Strong Jaw
+Ability: Rock Head
 EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature
-- Stone Edge
+- Head Smash
 - Earthquake
-- Ice Fang
-- Fire Fang
+- Superpower
+- Outrage
 
 Tyrantrum @ Lum Berry
-Ability: Strong Jaw
+Ability: Rock Head
 EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature
-- Dragon Dance
-- Stone Edge
+- Rock Polish
+- Head Smash
 - Earthquake
-- Ice Fang
+- Outrage
 
 Tyrantrum @ Choice Band
-Ability: Strong Jaw
+Ability: Rock Head
 EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature
-- Stone Edge
+- Head Smash
 - Earthquake
-- Ice Fang
-- Fire Fang
+- Superpower
+- Outrage
 
 
 === [ru] Registeel ===
@@ -315,17 +315,8 @@ EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
 - Stealth Rock
 - Spikes
-- Hydro Pump
+- Hydro Pump / Scald
 - Ice Beam
-
-Omastar @ Choice Specs
-Ability: Swift Swim
-EVs: 4 Def / 252 SpA / 252 Spe
-Modest Nature
-- Hydro Pump
-- Ice Beam
-- Scald
-- Hidden Power [Grass]
 
 
 === [ru] Magneton ===
@@ -375,7 +366,7 @@ EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
 - Thunderbolt
 - Signal Beam
-- Hidden Power [Water]
+- Hidden Power [Water] 
 - Volt Switch
 
 Jolteon @ Expert Belt
@@ -397,7 +388,7 @@ Impish Nature
 - Defog
 - Roost
 - Brave Bird
-- Super Fang
+- Taunt / Toxic
 
 Golbat @ Eviolite
 Ability: Infiltrator
@@ -406,7 +397,7 @@ Careful Nature
 - Defog
 - Roost
 - Brave Bird
-- Super Fang
+- Taunt / Toxic
 
 
 === [ru] Exploud ===
@@ -439,28 +430,10 @@ Modest Nature
 - Volt Switch
 - Giga Drain
 - Flamethrower
-- Knock Off
-
-Eelektross @ Expert Belt
-Ability: Levitate
-EVs: 252 HP / 4 Atk / 252 SpA
-Modest Nature
-- Volt Switch
-- Giga Drain
-- Flamethrower
-- Knock Off
+- Knock Off / Aqua Tail
 
 
 === [ru] Dugtrio ===
-
-Dugtrio @ Choice Band
-Ability: Arena Trap
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Earthquake
-- Stone Edge
-- Sucker Punch
-- Memento
 
 Dugtrio @ Life Orb
 Ability: Arena Trap
@@ -469,7 +442,7 @@ Jolly Nature
 - Earthquake
 - Stone Edge
 - Sucker Punch
-- Memento
+- Substitute
 
 Dugtrio @ Focus Sash
 Ability: Arena Trap
@@ -483,49 +456,32 @@ Jolly Nature
 
 === [ru] Druddigon ===
 
-Druddigon @ Choice Band
-Ability: Sheer Force
-EVs: 236 HP / 252 Atk / 20 Spe
-Adamant Nature
-- Dragon Claw
-- Sucker Punch
-- Fire Punch
-- Gunk Shot
-
 Druddigon @ Life Orb
 Ability: Sheer Force
 EVs: 236 HP / 252 Atk / 20 Spe
 Adamant Nature
-- Dragon Claw
-- Sucker Punch
-- Fire Punch
+- Outrage
+- Sucker Punch / Stealth Rock
+- Fire Punch / Earthquake
 - Gunk Shot
-
-Druddigon @ Assault Vest
-Ability: Sheer Force
-EVs: 236 HP / 252 Atk / 20 Spe
-- Dragon Claw
-- Sucker Punch
-- Fire Punch
-- Gunk Shot
-
-Druddigon @ Leftovers
-Ability: Rough Skin
-EVs: 236 HP / 252 Atk / 20 Spe
-Adamant Nature
-- Stealth Rock
-- Dragon Claw
-- Sucker Punch
-- Fire Punch
 
 Druddigon @ Rocky Helmet
 Ability: Rough Skin
 EVs: 252 HP / 4 Def / 252 SpD
 Careful Nature
 - Glare
-- Dragon Claw
-- Rest
-- Fire Punch
+- Dragon Tail
+- Stealth Rock
+- Fire Punch / Earthquake
+
+Druddigon @ Rocky Helmet
+Ability: Rough Skin
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+- Glare
+- Dragon Tail
+- Stealth Rock
+- Fire Punch / Earthquake
 
 
 === [ru] Accelgor ===
@@ -541,24 +497,6 @@ Timid Nature
 
 
 === [ru] Spiritomb ===
-
-Spiritomb @ Leftovers
-Ability: Infiltrator
-EVs: 252 HP / 252 Def / 4 SpD
-Bold Nature
-- Calm Mind
-- Dark Pulse
-- Rest
-- Sleep Talk
-
-Spiritomb @ Leftovers
-Ability: Infiltrator
-EVs: 252 HP / 252 Def / 4 SpD
-Impish Nature
-- Will-O-Wisp
-- Foul Play
-- Rest
-- Sleep Talk
 
 Spiritomb @ BlackGlasses
 Ability: Infiltrator
@@ -579,7 +517,7 @@ Careful Nature
 - Knock Off
 - Taunt
 - Toxic Spikes
-- Poison Jab
+- Poison Jab / Whirlwind
 
 Drapion @ Lum Berry
 Ability: Battle Armor
@@ -587,16 +525,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
 - Swords Dance
 - Knock Off
-- Aqua Tail
-- Poison Jab
-
-Drapion @ Lum Berry
-Ability: Battle Armor
-EVs: 252 Atk / 4 Def / 252 Spe
-Adamant Nature
-- Swords Dance
-- Knock Off
-- Agility
+- Aqua Tail / Earthquake
 - Poison Jab
 
 
@@ -608,38 +537,11 @@ EVs: 168 HP / 252 SpA / 88 Spe
 Modest Nature
 - Fire Blast
 - Earth Power
-- Ancient Power
+- Ancient Power / Hidden Power [Ice]
 - Stealth Rock
-
-Camerupt @ Cameruptite
-Ability: Solid Rock
-EVs: 168 HP / 252 SpA / 88 Spe
-Modest Nature
-- Fire Blast
-- Earth Power
-- Ancient Power
-- Will-o-Wisp
 
 
 === [ru] Bronzong ===
-
-Bronzong @ Leftovers
-Ability: Levitate
-EVs: 252 HP / 252 Atk / 4 Def
-Brave Nature
-- Trick Room
-- Stealth Rock
-- Earthquake
-- Explosion
-
-Bronzong @ Leftovers
-Ability: Levitate
-EVs: 252 HP / 4 Def / 252 SpD
-Sassy Nature
-- Protect
-- Gyro Ball
-- Earthquake
-- Toxic
 
 Bronzong @ Leftovers
 Ability: Levitate
@@ -669,7 +571,7 @@ Jolly Nature
 - Rock Polish
 - Earthquake
 - Stone Edge
-- Ice Punch
+- Ice Punch / Swords Dance
 
 Rhyperior @ Leftovers
 Ability: Solid Rock
@@ -679,15 +581,6 @@ Adamant Nature
 - Earthquake
 - Rock Blast
 - Protect
-
-Rhyperior @ Life Orb
-Ability: Solid Rock
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Rock Polish
-- Earthquake
-- Stone Edge
-- Swords Dance
 
 
 === [ru] Hitmonlee ===
@@ -719,15 +612,6 @@ Adamant Nature
 - Knock Off
 - Mach Punch
 
-Hitmonlee (M) @ Normal Gem
-Ability: Unburden
-EVs: 252 Atk / 4 SpD / 252 Spe
-Adamant Nature
-- Fake Out
-- High Jump Kick
-- Knock Off
-- Poison Jab
-
 
 === [ru] Glalie ===
 
@@ -737,17 +621,8 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
 - Spikes
 - Double-Edge
-- Explosion
-- Ice Shard
-
-Glalie @ Glalitite
-Ability: Inner Focus
-EVs: 252 Atk / 4 SpD / 252 Spe
-Naive Nature
-- Explosion
-- Double-Edge
-- Earthquake
-- Freeze-Dry
+- Explosion 
+- Taunt / Earthquake
 
 Glalie @ Glalitite
 Ability: Inner Focus
@@ -796,24 +671,6 @@ Adamant Nature
 
 Cobalion @ Leftovers
 Ability: Justified
-EVs: 4 Def / 252 SpA / 252 Spe
-Timid Nature
-- Calm Mind
-- Flash Cannon
-- Hidden Power [Ghost]
-- Focus Blast
-
-Cobalion @ Lum Berry
-Ability: Justified
-EVs: 252 Atk / 4 Def / 252 Spe
-Jolly Nature
-- Swords Dance
-- Close Combat
-- Iron Head
-- Magnet Rise
-
-Cobalion @ Leftovers
-Ability: Justified
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
 - Substitute
@@ -828,7 +685,7 @@ Jolly Nature
 - Stealth Rock
 - Close Combat
 - Volt Switch
-- Iron Head
+- Taunt / Iron Head
 
 
 === [ru] Aromatisse ===
@@ -837,6 +694,15 @@ Aromatisse @ Leftovers
 Ability: Aroma Veil
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
+- Wish
+- Protect
+- Moonblast
+- Aromatherapy
+
+Aromatisse @ Leftovers
+Ability: Aroma Veil
+EVs: 252 HP / 4 Def / 252 SpD
+Calm Nature
 - Wish
 - Protect
 - Moonblast
@@ -874,15 +740,6 @@ Timid Nature
 
 Meloetta @ Life Orb
 Ability: Serene Grace
-EVs: 252 Atk / 4 SpA / 252 Spe
-Jolly Nature
-- Relic Song
-- Return
-- Close Combat
-- Knock Off
-
-Meloetta @ Life Orb
-Ability: Serene Grace
 EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
 - Calm Mind
@@ -892,21 +749,12 @@ Timid Nature
 
 Meloetta @ Leftovers
 Ability: Serene Grace
-EVs: 252 HP / 4 Atk / 252 SpD
-Careful Nature
-- Perish Song
-- Knock Off
-- Heal Bell
-- Thunder Wave
-
-Meloetta @ Leftovers
-Ability: Serene Grace
 EVs: 252 HP / 188 Def / 24 SpA / 44 Spe
 Modest Nature
 - Substitute
 - Calm Mind
-- Hyper Voice
-- Shadow Ball
+- Psychic
+- Focus Blast
 
 
 === [ru] Alomomola ===
@@ -928,7 +776,7 @@ Ability: Sturdy
 EVs: 252 HP / 56 Def / 200 SpD
 Impish Nature
 - Stealth Rock
-- Roar
+- Roar / Toxic
 - Heavy Slam
 - Earthquake
 
@@ -998,13 +846,22 @@ Modest Nature
 Qwilfish @ Black Sludge
 Ability: Intimidate
 EVs: 252 HP / 232 Def / 24 Spe
+Impish Nature
+- Spikes
+- Thunder Wave
+- Waterfall
+- Taunt
+
+Qwilfish @ Black Sludge
+Ability: Intimidate
+EVs: 252 HP / 232 Def / 24 Spe
 Bold Nature
 - Spikes
-- Pain Split
+- Toxic Spikes
 - Scald
 - Taunt
 
-Qwilfish @ Normal Gem
+Qwilfish @ Focus Sash
 Ability: Intimidate
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
@@ -1013,23 +870,3 @@ Jolly Nature
 - Toxic Spikes
 - Explosion
 
-
-=== Camerupt ===
-
-Camerupt @ Cameruptite
-Ability: Solid Rock
-EVs: 168 HP / 252 SpA / 88 Spe
-Modest Nature
-- Fire Blast
-- Earth Power
-- Ancient Power
-- Stealth Rock
-
-Camerupt @ Leftovers
-Ability: Solid Rock
-EVs: 252 HP / 252 SpA / 4 SpD
-Modest Nature
-- Stealth Rock
-- Earth Power
-- Lava Plume
-- Stone Edge
